@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "晴る",
-  "base_artist": "ヨルシカ",
-  "createdAt": "2025-12-02T14:17:19.243963Z",
+  "base_artist": "ヨルシカ / n-buna Official",
+  "createdAt": "2026-03-14T05:12:33.543295Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -59,6 +59,14 @@
       "artist": "Yorushika",
       "has_synced": true,
       "path": "select/07_晴る___Sunny_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "晴る (Paused)",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/08_晴る_(Paused)_ヨルシカ.lrc"
     },
     {
       "id": "petitlyrics_1",
