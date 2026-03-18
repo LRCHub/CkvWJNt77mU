@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "晴る",
-  "base_artist": "ヨルシカ / n-buna Official",
-  "createdAt": "2026-03-14T05:12:33.543295Z",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2026-03-18T11:22:33.998057Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -75,6 +75,43 @@
       "artist": "ヨルシカ",
       "has_synced": false,
       "path": "select/pl_01_晴る_ヨルシカ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "晴る",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/localdb_01_晴る_ヨルシカ.lrc",
+      "repo_name": "CkvWJNt77mU"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "晴る",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/localdb_02_晴る_ヨルシカ.lrc",
+      "repo_name": "E0d2uEQJbXs"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "晴る",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/localdb_03_晴る_ヨルシカ.lrc",
+      "repo_name": "YmvAXVmfK0A"
+    },
+    {
+      "id": "localdb_dynamic_3",
+      "source": "localdb",
+      "title": "晴る",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/localdb_03_晴る_ヨルシカ.dynamic.lrc",
+      "kind": "dynamic",
+      "repo_name": "YmvAXVmfK0A"
     }
   ]
 }
